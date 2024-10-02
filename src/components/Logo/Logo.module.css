@@ -1,0 +1,17 @@
+.logoContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logoText {
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.iconHeart {
+  fill: var(--main-color);
+  width: 23px;
+  height: 23px;
+}
